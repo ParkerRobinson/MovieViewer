@@ -1,10 +1,8 @@
-# Week 1 - *MovieViewer*
+
 
 **MovieViewer** is a simple app that allows you to browse the top movies in theatres.
 
-Submitted by: **Parker Robinson**
-
-Time spent: **2** hour spent in total
+by: **Parker Robinson**
 
 ## User Stories
 
